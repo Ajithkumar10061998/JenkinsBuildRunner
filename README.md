@@ -1,1 +1,1 @@
-# JenkinsBuildRunner runs good test
+# JenkinsBuildRunner runs fine
